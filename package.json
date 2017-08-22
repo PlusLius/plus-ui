@@ -1,9 +1,10 @@
 {
   "name": "plus-ui",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "A Vue.js project",
   "author": "LiuPlus <408709581@qq.com>",
-  "private": true,
+  "private": false,
+  "main": "src/main.js",
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",

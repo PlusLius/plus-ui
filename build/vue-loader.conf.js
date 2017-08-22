@@ -14,8 +14,5 @@ module.exports = {
     source: 'src',
     img: 'src',
     image: 'xlink:href'
-  },
-  postcss: function () {
-    return [require('postcss-salad')];
   }
 }
